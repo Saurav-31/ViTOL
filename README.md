@@ -12,7 +12,7 @@ This repository contains inference code and pre-trained model weights for our mo
 ### Model Zoo 
 We provide pre-trained weights for VITOL with DeiT-S and DeiT-B backbone on ImageNet-1k and CUB datasets below. 
 
-###### ImageNet: [***ViTOL-base***](https://drive.google.com/file/d/1YYg2VV3p4kQxviFKPwgcH2Hm3OyuUUR5/view?usp=sharing), [***ViTOL-small***](https://drive.google.com/file/d/1IzWX4dzdK3Dw6zAYlhWxRv8TxPF5ObwG/view?usp=sharing)
+###### ImageNet: [***ViTOL-base***](https://drive.google.com/file/d/1YYg2VV3p4kQxviFKPwgcH2Hm3OyuUUR5/view?usp=sharing), [***ViTOL-small***](https://drive.google.com/file/d/1TtnjsLSgoU_E5XDdDoLjxKG0orbGx4B2/view?usp=sharing)
 ###### CUB: Updating soon 
 
 ### Results on ImageNet-1k dataset 

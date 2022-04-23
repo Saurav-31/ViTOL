@@ -157,7 +157,7 @@ def get_configs():
     parser.add_argument('--epochs', default=1, type=int,
                         help='number of total epochs to run')
     parser.add_argument('--pretrained', type=str2bool, nargs='?',
-                        const=True, default=True,
+                        const=False, default=False,
                         help='Use pre_trained model.')
     parser.add_argument('--cam_curve_interval', type=float, default=.001,
                         help='CAM curve interval')
