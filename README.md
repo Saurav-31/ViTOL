@@ -1,6 +1,6 @@
 # ViTOL: Vision Transformers for Weakly Supervised Object Localization 
 
-Official implementation of the paper [***ViTOL: Vision Transformer forWeakly Supervised Object Localization***]([https://arxiv.org/abs/2204.06772](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Gupta_ViTOL_Vision_Transformer_for_Weakly_Supervised_Object_Localization_CVPRW_2022_paper.pdf)) which is accepted as [***CVPRW-2022***](https://cvpr2022.thecvf.com/) paper for [***L3DIVU-2022***](https://sites.google.com/view/l3d-ivu/overview?authuser=0). 
+Official implementation of the paper [***ViTOL: Vision Transformer forWeakly Supervised Object Localization***]([https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Gupta_ViTOL_Vision_Transformer_for_Weakly_Supervised_Object_Localization_CVPRW_2022_paper.pdf]) which is accepted as [***CVPRW-2022***](https://cvpr2022.thecvf.com/) paper for [***L3DIVU-2022***](https://sites.google.com/view/l3d-ivu/overview?authuser=0). 
 
 This repository contains inference code and pre-trained model weights for our model in Pytorch framework. Code is trained and tested in *Python 3.6.9* and *Pytorch version 1.7.1+cu101*
 
