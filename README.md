@@ -1,6 +1,6 @@
 # ViTOL: Vision Transformers for Weakly Supervised Object Localization 
 
-Official implementation of the paper [***ViTOL: Vision Transformer forWeakly Supervised Object Localization***](https://arxiv.org/abs/2204.06772) which is accepted as [***CVPRW-2022***](https://cvpr2022.thecvf.com/) paper for [***L3DIVU-2022***](https://sites.google.com/view/l3d-ivu/overview?authuser=0). 
+Official implementation of the paper [***ViTOL: Vision Transformer forWeakly Supervised Object Localization***]([https://arxiv.org/abs/2204.06772](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Gupta_ViTOL_Vision_Transformer_for_Weakly_Supervised_Object_Localization_CVPRW_2022_paper.pdf)) which is accepted as [***CVPRW-2022***](https://cvpr2022.thecvf.com/) paper for [***L3DIVU-2022***](https://sites.google.com/view/l3d-ivu/overview?authuser=0). 
 
 This repository contains inference code and pre-trained model weights for our model in Pytorch framework. Code is trained and tested in *Python 3.6.9* and *Pytorch version 1.7.1+cu101*
 
@@ -74,19 +74,14 @@ If you have any question about our work or this repository, please don't hesitat
 ### Citation 
 If you find this work useful, please cite as follows:
 ```
-@misc{https://doi.org/10.48550/arxiv.2204.06772,
-  doi = {10.48550/ARXIV.2204.06772},
-  url = {https://arxiv.org/abs/2204.06772},
-  author = {Gupta, Saurav and Lakhotia, Sourav and Rawat, Abhay and Tallamraju, Rahul},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {ViTOL: Vision Transformer for Weakly Supervised Object Localization},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{gupta2022vitol,
+  title={ViTOL: Vision Transformer for Weakly Supervised Object Localization},
+  author={Gupta, Saurav and Lakhotia, Sourav and Rawat, Abhay and Tallamraju, Rahul},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4101--4110},
+  year={2022}
 }
 ```
-###### official cvpr citation: not yet available 
-
 
 
 
